@@ -1,0 +1,38 @@
+.hide {
+	display: none;
+}
+
+a.link {
+	color: #0000ff !important;
+}
+
+a.link:hover {
+	cursor: pointer;
+	color: #008e00 !important;
+}
+
+div.errorMsg {
+	color: #ff3333;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+.textCenter {
+	text-align: center;
+}
+
+li.nav-item a, a.footer {
+	color: #eeee00;
+}
+
+li.nav-item a {
+	padding-right: 10px;
+}
+
+li.nav-item a:hover, a.footer:hover {
+	color: #ffff00;
+}
+
+span.white {
+	color: #eeeeee;
+}
